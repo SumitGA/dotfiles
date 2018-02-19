@@ -1,0 +1,41 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/eventPage.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "images/icon16-off.png",
+         "24": "images/icon24-off.png",
+         "32": "images/icon32-off.png"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/autofill.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_generalDescription__",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "24": "images/icon24.png",
+      "32": "images/icon32.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+KdvKguT0dbNJSmbd5jSmboJiwqQCViMPVB7Fg8W6BbpDC59x9Y/RhqFfST66z7w2bM+Wwm1KSC6/wClckIWgTcoD1ZPQ22iuoWdxGEZ1QwrsfJoo3iZ7f7bFqnVvW1mXX9tssFJMyzpjcS0h3zAGuJy0eG9OmL3pWa446sCPXwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "40.0",
+   "name": "Autofill",
+   "options_ui": {
+      "chrome_style": false,
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "http://*/*", "https://*/*", "file://*/*", "contextMenus", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "7.8.0",
+   "web_accessible_resources": [ "sounds/elric.ogg", "sounds/elric-err.ogg", "sounds/jeannie.ogg", "sounds/jeannie-err.ogg", "sounds/merlin.ogg", "sounds/merlin-err.ogg", "sounds/sabrina.ogg", "sounds/sabrina-err.ogg", "sounds/samantha.ogg", "sounds/samantha-err.ogg", "sounds/simon.ogg", "sounds/simon-err.ogg", "sounds/sound.ogg" ]
+}

@@ -1,0 +1,357 @@
+AUTOFILL VERSION HISTORY
+================================================================================
+
+7.8.0   - Redesigned Manage Profiles
+        - Added confirmation when opening Manage Profiles with unsaved changes
+        - Added ability to navigate to different overlays (lightbox) directly
+        - Added autofocus to text box in Exceptions tab
+        - Refactored code
+        - Fixed table width when switching from All profile to Unfiled
+        - Fixed undefined Site filter when rearranging profiles
+        - Fixed tabbing issues in overlays
+
+7.4.0   - Added keyboard shortcuts to execute profiles
+        - Added import progress status
+        - Updated Mac keyboard shortcut key to Option (Alt)
+        - Replaced deprecated KeyboardEvent.keyCode with KeyboardEvent.key
+        - Fixed issues when pasting text into Manage Profiles
+        - Fixed tab characters in changelog.txt
+
+7.2.3   - Fixed JavaScript rules not executed if page has no fields
+        - Fixed generated rules missing port number in Site filter
+        - Fixed cannot create rule when right-clicking too fast
+
+7.2.0   - Added profile name to Move button in All profile
+        - Added debugging option
+        - Unfiled now honors "Overwrite by default" option
+        - Removed profile tooltip in All profile
+        - Fixed disabled and read-only fields getting autofilled
+        - Fixed error saving new profile in some cases
+        - Fixed extraneous tooltips
+
+7.1.0   - Added link to Version History
+        - Improved Options page handling
+        - Migrated to options_ui in manifest
+        - Changed minimum Chrome version to 40
+
+7.0.0   - Added internationalization (i18n) support
+        - Added Portuguese (Portugal) translation
+        - Added Simplified Chinese translation
+        - Added 'value' attribute matching for radio inputs
+        - Added warning if using wizard before page is done loading
+        - Added support for local files (file://)
+        - Increased maximum delay to 60 seconds
+        - Updated tooltip text
+        - Moved keyboard shortcuts to online help
+        - Reorganized resource files
+        - Minor refactoring
+        - Fixed lingering error message in wizard
+        - Fixed not able to generate rules for Unfiled profile
+        - Fixed backup rules executed even if option is disabled
+        - Fixed "Add rule for this field" issue
+        - Fixed tooltip bleeding off screen
+
+6.12.2  - Fixed number series regex issue with some forms
+
+6.12.1  - Fixed site filters getting wiped when adding rules
+
+6.12.0  - Added option to automatically back up text fields
+        - Added logic to replace numbers in 'name' with regex pattern
+        - Added ability to randomly select menus and toggle checkboxes
+        - Improved support for form validation
+        - Improved dynamically inserted elements observer
+        - Automatically enable context menu when in manual mode
+        - Fixed delay range input still disabled after importing
+        - Fixed manual mode not honored for dynamically inserted fields
+        - Fixed JavaScript error for some values containing line breaks
+        - Fixed import issue
+        - Fixed selected field highlighting issue
+
+6.8.3   - Brought back delay option
+        - Increased maximum delay to 10 seconds
+        - Improved import status message
+        - Fixed manual mode bug
+
+6.8.0   - Added ability to autofill dynamically inserted elements
+        - Added icon badge showing number of autofill rules executed
+        - Updating options now reflected in content script immediately
+        - Redesigned icon to work in toolbar (required for Chrome v49+)
+        - Updated wizard to not create rules for hidden fields
+        - Updated wizard to only create rules for fields that have changed
+        - Enabled overwrite option by default
+        - Rewrote checkbox/radio auto-click logic
+        - Improved JavaScript rules execution code
+        - Optimized wizard CSS
+        - Fixed fields inside an iframe aren't autofilled
+        - Fixed not able to create rules for fields inside an iframe
+        - Fixed unreliable field highlighting when adding single rule
+        - Fixed wizard infobar covered by some overlays
+        - Removed delay option (no longer necessary)
+        - Removed auto-saving of profile site filter when using wizard
+        - Removed unused permissions ("declarativeContent" and "tabs")
+
+6.4.0   - Added option to manually trigger Autofill
+        - Fixed incorrect Value field reference when value contains variable
+
+6.3.1   - Fixed autofill wizard sometimes not working on sites with iframes
+
+6.3.0   - Added ability to reference other fields in rules
+        - Added increment special variable (e.g., {1++})
+        - Added decrement special variable (e.g., {1--})
+        - Rewrote Regular Expressions 'lookbehind' logic
+        - Improved random number generator
+        - Optimized variable translation code
+        - Fixed only first instance of special variable working per rule
+        - Fixed site filter not added in some cases when using wizard
+        - Fixed newly added profile not getting selected in wizard
+        - Fixed profile syncing issues between wizard and Options page
+        - Fixed bugs in Regular Expressions pre-processor
+        - Fixed bugs when importing for the first time
+        - Fixed import failing on rules with line breaks
+
+6.1.0   - Added support for Bootstrap checkbox and radio elements
+        - Improved wizard to only generate rules for fields that changed
+        - Changed JavaScript rules to always run last
+        - Increased tooltip help font size
+        - Updated support link
+        - Use "strict" mode when evaluating JavaScript
+        - Removed unnecessary permissions
+        - Minor code optimizations
+        - Fixed incorrect status message in some cases
+        - Fixed issues related to form validation and focusing
+
+6.0.x   - Added icon in address bar to activate autofill wizard
+        - Added support for HTML5 inputs (email, number, search, etc.)
+        - Added support for Bootstrap-select drop-down menus
+        - Added JavaScript field type to execute arbitrary code
+        - Added "placeholder" and "title" attributes matching
+        - Added logic to update value if duplicate rule in same profile
+        - Added row highlighting in rules table
+        - Added keyboard navigation between rows in rules table
+        - Added ability to close wizard (infobar) by pressing Esc
+        - Added ability to match multi-select lists by text or value
+        - Updated extension architecture to Manifest 2.0
+        - Updated version number to include patch component
+        - Simplified field types (Hidden merged into Text)
+        - Rewrote Support tab with more helpful content
+        - Tab state preserved after reloading Options page
+        - Migrated from persistent background page to event page
+        - Migrated from chrome.extension to chrome.runtime
+        - Code refactoring and optimizations throughout
+        - Removed floating toolbar (not enough usage; added complexity)
+        - Removed default rules and sample exceptions
+        - Removed background.html (no longer necessary)
+        - Auto-focus profiles list in Manage Profiles (v6.0.11)
+        - Change to last newly created profile automatically (v6.0.11)
+        - Moved migrateData() to event page for reliability (v6.0.13)
+        - Fixed category bar jumping when "Scale rules table" is enabled
+        - Fixed wizard sometimes setting wrong field type
+        - Fixed too aggressive RegExp cleaning routine
+        - Fixed incorrect shortcut key hint for "what's new" link
+        - Fixed delay value not updated while sliding range input
+        - Fixed rules table fields not aligned properly
+        - Fixed rules table height not scaled correctly
+        - Fixed category menu sometimes expanding after selection
+        - Fixed context menu not updated in some cases
+        - Fixed auto-select no longer triggering 'change' event
+        - Fixed broken add new profiles experience
+        - Fixed issues with deleting autofill rules
+        - Fixed cases where field validation errors were left hanging
+        - Fixed insertion of symbols when moving rules using Alt + NumPad
+        - Fixed iframe editors not recognized by wizard in some cases
+        - Fixed non-div contentEditable elements not autofilled
+        - Fixed autofill not working on local files
+        - Fixed profile reset to "Unfiled" if canceled in wizard
+        - Fixed issue deleting profile while wizard is open
+        - Fixed cases where Name field permanently disabled (v6.0.11)
+        - Fixed 'Discard Changes and Switch Profile' (v6.0.11)
+        - Fixed 'Save' enabled with no changes on Exceptions (v6.0.11)
+        - Fixed not able to disable delay (v6.0.11)
+        - Fixed Elric voice not working (v6.0.11)
+        - Fixed icon changing even when not autofilled (v6.0.11)
+        - Fixed site filter www.site.com not matching site.com (v6.0.11)
+        - Fixed rule changes not propagated to content script (v6.0.11)
+        - Fixed Options not always refreshed on focus (v6.0.11)
+        - Fixed critical bug breaking Type = Hidden rules (v6.0.13)
+        - Fixed critical bug after creating first exception (v6.0.14)
+        - Fixed wrong initial profile ID when saved by wizard (v6.0.15)
+
+5.5     - Added ability to autofill contentEditable divs
+        - Added ability to import individual profiles (Append)
+        - Improved support for rich text editors
+        - Improved rich text autofill to retain formatting
+        - Improved CSV data structure validation
+        - Improved sample autofill rules
+        - Fixed bug: symbols in Exceptions returning errors
+        - Fixed bug: wizard not working on some forms
+        - Fixed bug: fields still highlighted after closing wizard
+        - Fixed bug: RegExp qualifiers escaped in some patterns
+
+5.4     - Added option to disable fuzzy text label matching
+        - Fixed bug: false positive text label match
+
+5.3     - Added option to enable "overwrite" by default
+        - Added option to set autofill delay
+
+5.2     - Added profile site filter
+        - Added option to scale rules table to window height
+        - Added tooltip for reorder rule icon
+        - Moved "overwrite" option from global to profile level
+        - Updated options layout (Other Stuff tab)
+        - Updated FAQ (Support tab)
+
+5.1     - Added support for matching class names as backup
+        - Updated sound effects to be off by default
+        - Updated context menu text
+        - Fixed missing wizard background in Linux
+        - Fixed bug: 3rd-party iframes returning errors
+        - Fixed critical bug: autofill operation failing (5.1.1)
+
+5.0     - Added wizard to generate autofill rules (context menu)
+        - Improved Other Stuff tab to be more organized
+        - Improved toolbar and optimized toolbar CSS
+        - Renamed "Profiles" to "Execute profile" in context menu
+        - Updated content in FAQ (Support tab)
+        - Fixed bug: profiles can get out of sync with BG page
+        - Fixed bug: toolbar looks funny on some sites
+        - Fixed bug: toolbar can conflict with document events
+        - Fixed 4.4 bug: toolbar can "stick" to cursor
+        - Fixed 4.x bug: edit boxes shouldn't expand on first load
+
+4.4     - Added option to mask passwords
+        - Added autofocus on Name column after selecting Type
+        - Updated default toolbar position to upper right corner
+        - Updated Type selection to not show error on new rows
+        - Fixed bug: multiple indexes not working for Select
+        - Fixed bug: resizing window can put toolbar out of view
+        - Fixed bug: don't toggle checkmark if toolbar can't open
+        - Fixed bug: bottom Name box shouldn't get focus on load
+
+4.3     - Removed toolbar icon (unnecessary feature)
+        - Added context menu item to show floating toolbar
+        - Added option to disable context menu
+        - Fixed bug: rules are shortcircuiting after first match
+        - Fixed bug: 1! and 0! stopped working for Checkbox/Radio
+
+4.2     - Added Autofill toolbar icon and floating toolbar
+        - Added support for 1! and 0! commands for Type=Select (4.2.1)
+        - Improved label detection code to be more efficient
+        - Updated content in Q&A (Support tab)
+        - Fixed bug: labels with symbols were not detected
+        - Fixed bug: menus with numeric text not autoselected
+        - Fixed bug: invalid cell should not force focus
+        - Fixed bug: extra rules can remain after import
+        - Fixed bug: text matches can fail for Type=Select (4.2.1)
+
+4.1     - Added support for matching field labels
+        - Added support for matching text/value in drop-down menus
+        - Added autofill rule count to profile list
+        - Optimized autofill code to be more efficient
+        - Improved Manage Profiles dialog instructions
+        - Improved default rules to be more useful
+        - Updated content in Form Fields header
+        - Updated help bubbles to show above status message
+        - Fixed bug: rules can be moved to Unfiled by mistake
+        - Fixed bug: stray icon in lightbox dialog titlebar
+        - Fixed bug: re-enabling profile sorting behaves strangely
+        - Fixed bug: context menu not showing in certain cases
+        - Fixed typo in Support Q&A (wrong keyboard shortcut)
+
+4.0     - Added support for Profiles to better organize your rules
+        - Added context menu to allow autofilling by profile
+        - Added support for HTML5 div-based rich text editors
+        - Added logic to call field's event handler after autofill
+        - Added logic to disable buttons when not needed
+        - Added new keyboard shortcuts and updated existing ones
+        - Added Back/Forward button navigation through tabs
+        - Improved drag & drop (including new animation and icon)
+        - Improved rules table to be more compact and auto-expand
+        - Improved unique ID generator (shorter IDs to save space)
+        - Improved error tracking and messages
+        - Improved animation code (replaced JavaScript with CSS3)
+        - Improved lightbox to use flexbox instead of JavaScript
+        - Improved lightbox to stay within screen size
+        - Improved readability of exported CSV data
+        - Optimized JavaScript using jsPerf to increase performance
+        - Updated logic to match URL _or_ document title
+        - Updated logic to make Name column optional
+        - Updated content in Form Fields, Other Stuff, and Support
+        - Updated text bubbles
+        - Updated status message animation
+        - Updated lightbox style
+        - Fixed bug: error selecting menus without event handler
+        - Fixed bug: unable to close lightbox in rare scenarios
+        - Fixed bug: lightbox should disable all keyboard shortcuts
+        - Fixed bug: rules undraggable after showing text bubble
+        - Fixed bug: sound can play when no autofill occurs
+        - Fixed bug: jumpy status message when scrolling with mouse
+
+3.8     - Added support for Regular Expression "lookbehind" syntax
+        - Added keyboard shortcuts for accessibility
+        - Updated Support tab
+
+3.7     - Added ability to close lightbox with Escape button
+        - Updated Support tab
+        - Fixed bug: scrollbar can be on briefly when showing lightbox
+        - Fixed bug: lightbox can be made to break on rare occasions
+        - Fixed bug: JavaScript error when loading pre-scrolled page
+        - Fixed bug: incorrect text bubble position on window resize
+
+3.6     - Added link to "What's New" lightbox (click version number)
+        - Improved lightbox code
+        - Fixed saving bug after row has been dragged
+        - Fixed bug: status message moves on horizontal scroll
+        - Fixed bug: rare error adding sample rules on first run
+        - Fixed bug: some iframe-based forms not getting autofilled
+
+3.5     - Added support for variables (Other Stuff tab)
+        - Added "What's New" lightbox
+        - Optimized backend code
+
+3.4     - Added sound effects option (Other Stuff tab)
+
+3.3     - Improved rules reordering to allow drag-and-drop
+        - Updated Support tab
+
+3.2     - Improved error message handling
+        - Improved text consistency
+
+3.1     - Added ability to reorder autofill rules
+        - Improved code size by switching to Microsoft Ajax Minifier
+        - Updated sample data
+
+3.0     - Added support for multi-select listboxes
+        - Added support for hidden fields
+        - Added settings import/export (Other Stuff tab)
+        - Added contextual Help button
+        - Added storage limit error
+        - Improved status message fading code
+        - Moved status message to top
+        - Updated Save/Reset to be global instead of per tab
+        - Updated status message to show globally instead of per tab
+        - Updated tooltips text and FAQ
+        - Fixed bug where status message did not match error state
+        - Fixed tooltips not displaying in Chromium on Linux
+        - Fixed typo: "Advance" changed to "Advanced"
+        - Fixed installation errors by adding minimum_chrome_version
+
+2.2     - Added option to overwrite non-empty fields (Other Stuff tab)
+        - Improved frame detection code
+        - Updated default behavior to only autofill empty fields
+        - Fixed more status message glitches
+
+2.1     - Added support for forms inside a frame (framesets)
+
+2.0     - Added autofill URL binding (Site column)
+        - Added support for checkboxes and radio buttons
+        - Added support for iframe-based edit boxes
+        - Improved name/id matching code
+        - Improved form validation code
+        - Improved text bubble hints
+        - Improved code size by using YUI Compressor
+        - Updated source to pass HTML5 validation
+        - Updated sample data
+        - Reduced input box height to two rows (Form Fields tab)
+        - Fixed status message glitches
+
+1.0     - Initial release

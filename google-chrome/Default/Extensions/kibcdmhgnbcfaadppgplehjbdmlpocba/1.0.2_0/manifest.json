@@ -1,0 +1,53 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icons/128.png",
+         "16": "icons/16.png",
+         "32": "icons/32.png",
+         "48": "icons/48.png"
+      },
+      "default_title": "Search Private for Chrome"
+   },
+   "chrome_settings_overrides": {
+      "search_provider": {
+         "encoding": "UTF-8",
+         "favicon_url": "http://srchnet.com/favicon.ico",
+         "image_url": "",
+         "instant_url": "",
+         "is_default": true,
+         "keyword": "{searchTerms}",
+         "name": "Search for Chrome",
+         "search_url": "http://srchnet.com/search/{searchTerms}",
+         "suggest_url": ""
+      }
+   },
+   "chrome_url_overrides": {
+      "newtab": "newtab/blank.html"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "*://*.searchprivate.org/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src https://*.searchprivate.org https://services.freshy.com https://search.yahoo.com/ 'self'; object-src 'self';",
+   "description": "Toggle Private Search on newtab to search the web privately.",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnm5HdFw+E4+DqV735Uw6JPKx5jf6Pr1Yo9GJeHictbyav0fWA0Von33mtebUOTc8Q/dnXZYVPOmuKF9XthAwFP9bwlkUsChDnUUmzaV7H/NNqZd4krrJXgXVMaRTPI4qZKSXkjlXPfKJ6p3zq6vKKgrbhsDkZLAtMDsE9Kp226xWIhArJvEzokQzaOuyi0ewE0E2r8RRCvQUke7SFXSPhSX9V2PTYHz6wAViSRrHx/mSqTPhxZ6kQAd3IEg2exrO8PZabReBSJx+RLGKOP9m6wUHkhY21kkW30y51qx3so2TzrreL0IW+SmwSiDJi3x8uL6qFHpT/yuvSy+IK37gewIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "32",
+   "name": "Search Private for Chrome",
+   "permissions": [ "\u003Call_urls>", "cookies", "storage", "tabs", "webRequest", "webRequestBlocking" ],
+   "short_name": "Search Private for Chrome",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2",
+   "web_accessible_resources": [ "icons/16.png" ]
+}

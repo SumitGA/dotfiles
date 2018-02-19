@@ -1,0 +1,1473 @@
+{
+   "checksum": "719f13552950bf01ec7afe4c3979d4c5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13028881147076235",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13161609992127691"
+            },
+            "name": "Apple",
+            "sync_transaction_version": "9",
+            "type": "url",
+            "url": "http://www.apple.com/"
+         }, {
+            "date_added": "13028881147091235",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13151981576642458"
+            },
+            "name": "Yahoo!",
+            "sync_transaction_version": "10",
+            "type": "url",
+            "url": "http://www.yahoo.com/"
+         }, {
+            "date_added": "13028881147099235",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13163043422688138"
+            },
+            "name": "Google Maps",
+            "sync_transaction_version": "11",
+            "type": "url",
+            "url": "http://maps.google.com/"
+         }, {
+            "date_added": "13028881147129235",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13159967593788825"
+            },
+            "name": "Wikipedia",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "http://www.wikipedia.org/"
+         }, {
+            "children": [ {
+               "date_added": "13028881147168235",
+               "id": "136",
+               "name": "CNN",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.cnn.com/"
+            }, {
+               "date_added": "13028881147173235",
+               "id": "137",
+               "name": "The New York Times",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.nytimes.com/"
+            }, {
+               "date_added": "13028881147181235",
+               "id": "138",
+               "name": "Google News",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "feed://news.google.com/?output=rss"
+            }, {
+               "date_added": "13028881147188235",
+               "id": "139",
+               "name": "CNET News.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.news.com/"
+            }, {
+               "date_added": "13028881147197235",
+               "id": "140",
+               "name": "ESPN",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://espn.go.com/"
+            }, {
+               "date_added": "13028881147205235",
+               "id": "141",
+               "name": "Los Angeles Times",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.latimes.com/"
+            }, {
+               "date_added": "13028881147214235",
+               "id": "142",
+               "name": "BBC News",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://news.bbc.co.uk/"
+            }, {
+               "date_added": "13028881147220235",
+               "id": "143",
+               "name": "NPR",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.npr.org/"
+            }, {
+               "date_added": "13028881147227235",
+               "id": "144",
+               "name": "USA Today",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.usatoday.com/"
+            }, {
+               "date_added": "13101222141135882",
+               "id": "145",
+               "meta_info": {
+                  "last_visited_desktop": "13137080528979786"
+               },
+               "name": "Shopping Cart - FreeHosting.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.freehosting.com/client/cart.php?a=add&pid=3"
+            }, {
+               "date_added": "13102877074745653",
+               "id": "146",
+               "name": "Free Web Hosting Service for Joomla and Wordpress",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.agilityhoster.com/"
+            }, {
+               "date_added": "13102883828709580",
+               "id": "147",
+               "meta_info": {
+                  "last_visited_desktop": "13146304161308641"
+               },
+               "name": "https://nesuonlinestore-9843.rhcloud.com/wp-admin/admin.php?page=woothemes is not available",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://nesuonlinestore-9843.rhcloud.com/wp-admin/admin.php?page=woothemes"
+            }, {
+               "date_added": "13103549167433170",
+               "id": "148",
+               "name": "Free Hosting - Cloud Hosted with cPanel and full PHP Support",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://x10hosting.com/"
+            }, {
+               "date_added": "13161861110052916",
+               "id": "149",
+               "meta_info": {
+                  "last_visited_desktop": "13161861110056689"
+               },
+               "name": "Set environment variables to use your own API keys · odeke-em/drive Wiki",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/odeke-em/drive/wiki/Set-environment-variables-to-use-your-own-API-keys"
+            }, {
+               "date_added": "13162126313757794",
+               "id": "150",
+               "meta_info": {
+                  "last_visited_desktop": "13162126313758290"
+               },
+               "name": "aiktcDspace2055",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.aiktcdspace.org:8080/jspui/bitstream/123456789/2055/1/aiktcDspace2055"
+            }, {
+               "date_added": "13162441117020511",
+               "id": "151",
+               "meta_info": {
+                  "last_visited_desktop": "13162441117021117"
+               },
+               "name": "Quality software —12 non functional requirements every app should have",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://eyefodder.com/2011/06/quality-software-non-functional-requirements.html"
+            }, {
+               "date_added": "13162528019545873",
+               "id": "152",
+               "meta_info": {
+                  "last_visited_desktop": "13162730674121915"
+               },
+               "name": "Feasibility Study Report Personal Information & Leave Management Syst…",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.slideshare.net/akila712712/feasibility-study-report-personal-information-leave-management-system"
+            }, {
+               "date_added": "13162636074640132",
+               "id": "153",
+               "meta_info": {
+                  "last_visited_desktop": "13162636074640776"
+               },
+               "name": "HTML5 Semantic Elements",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.w3schools.com/html/html5_semantic_elements.asp"
+            }, {
+               "date_added": "13162695391318933",
+               "id": "154",
+               "meta_info": {
+                  "last_visited_desktop": "13162697088965148"
+               },
+               "name": "rails get app root/base url - Stack Overflow",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/21321687/rails-get-app-root-base-url"
+            }, {
+               "date_added": "13162735095591646",
+               "id": "155",
+               "meta_info": {
+                  "last_visited_desktop": "13162735095592111"
+               },
+               "name": "Document 3.docx - Microsoft Word Online",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://onedrive.live.com/Edit.aspx?resid=41BCC43B849B42A4!2282&app=Word&wdPid=1e4389cb"
+            }, {
+               "date_added": "13163077125238785",
+               "id": "156",
+               "meta_info": {
+                  "last_visited_desktop": "13163077125239321"
+               },
+               "name": "Ruby Tutorial: Ruby Study Notes - Best Ruby Guide, Ruby Tutorial",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://rubylearning.com/satishtalim/tutorial.html"
+            } ],
+            "date_added": "13163490285548848",
+            "date_modified": "13163490285548848",
+            "id": "11",
+            "name": "News",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13028881147257235",
+               "id": "24",
+               "name": "Orbitz",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.orbitz.com/"
+            }, {
+               "date_added": "13028881147274235",
+               "id": "25",
+               "name": "CareerBuilder",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.careerbuilder.com/"
+            }, {
+               "date_added": "13044295706104599",
+               "id": "26",
+               "name": "Study in Norway/Where can I study?/List of institutions/",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.studyinnorway.no/Where-can-I-study/List-of-institutions"
+            }, {
+               "date_added": "13120949150348763",
+               "id": "27",
+               "name": "Welcome – SUSE Studio",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://susestudio.com/"
+            }, {
+               "date_added": "13121319571383348",
+               "id": "28",
+               "meta_info": {
+                  "last_visited_desktop": "13141440689088402"
+               },
+               "name": "MP3Juices - Free MP3 Downloads",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.mp3juices.cc/"
+            }, {
+               "date_added": "13122314246812298",
+               "id": "29",
+               "name": "How to Make Pittsburgh a Startup Hub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.paulgraham.com/pgh.html"
+            }, {
+               "date_added": "13123515493285176",
+               "id": "30",
+               "name": "Best Master of Science Programs in Engineering & Technology in Australia 2017",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.masterstudies.com/MSc/Engineering-and-Technology/Australia/"
+            }, {
+               "date_added": "13124830495319368",
+               "id": "31",
+               "name": "Software Engineering Project Ideas",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.ece.rutgers.edu/~marsic/books/SE/projects/"
+            }, {
+               "date_added": "13124832516723974",
+               "id": "32",
+               "name": "Mobile Attendance System Project | NevonProjects",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://nevonprojects.com/mobile-attendance-system-project/"
+            }, {
+               "date_added": "13125535991732924",
+               "id": "33",
+               "name": "9860073222 / 986-0073222 / +9779860073222 Phone Number Search Results | Truecaller",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.truecaller.com/np/9860073222"
+            }, {
+               "date_added": "13125803826605451",
+               "id": "34",
+               "name": "KataKlimt Free Website Template | Free CSS Templates | Free CSS",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.free-css.com/free-css-templates/page172/kataklimt"
+            }, {
+               "date_added": "13125803857804395",
+               "id": "35",
+               "name": "Download 2469 Free Website Templates - CSS & HTML | Free CSS",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.free-css.com/free-css-templates/"
+            }, {
+               "date_added": "13125852013346799",
+               "id": "36",
+               "meta_info": {
+                  "last_visited_desktop": "13146304105609243"
+               },
+               "name": "109CS0146.pdf",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://ethesis.nitrkl.ac.in/5195/1/109CS0146.pdf"
+            }, {
+               "date_added": "13132765666348431",
+               "id": "37",
+               "name": "What are OSI Protocols? - Definition from Techopedia",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.techopedia.com/definition/24961/osi-protocols"
+            }, {
+               "date_added": "13135608440166764",
+               "id": "38",
+               "meta_info": {
+                  "last_visited_desktop": "13135608440167074"
+               },
+               "name": "ICS 321 Softare Installation Instructions",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www2.hawaii.edu/~lipyeow/ics321/2015spr/installoracle11g.html"
+            }, {
+               "date_added": "13136224206036849",
+               "id": "39",
+               "meta_info": {
+                  "last_visited_desktop": "13136224286128581"
+               },
+               "name": "thenewboston - Video Tutorials on Programming and More",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://thenewboston.com/"
+            }, {
+               "date_added": "13145721346490814",
+               "id": "40",
+               "meta_info": {
+                  "last_visited_desktop": "13145721436425085"
+               },
+               "name": "Angular 2 + Rails 5 Bootcamp | Udemy",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.udemy.com/angular-on-rails-course/?utm_content=_._pd_1004134_._&utm_source=facebook-retarget&utm_medium=udemyads&utm_campaign=LC-FB-DRT-2day-Non-Purchaser-EN-ALL_._ci_._sl_ALL_._vi_._sd_All_._la_EN_.&utm_term=_._ag_Development-_._ci_._._gi_all_._ai_18--65_._an_JQ2IuU&k_clickid=e63525ee-54a3-49c6-aadb-9f14fe6e54f2_123550275"
+            }, {
+               "date_added": "13145903263366359",
+               "id": "41",
+               "meta_info": {
+                  "last_visited_desktop": "13156492698807417"
+               },
+               "name": "15 Questions to Ask During a Ruby Interview",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://gist.github.com/ryansobol/5252653"
+            }, {
+               "date_added": "13145903272781811",
+               "id": "42",
+               "meta_info": {
+                  "last_visited_desktop": "13156492599902280"
+               },
+               "name": "19 Essential Ruby Interview Questions and Answers | Toptal",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.toptal.com/ruby/interview-questions"
+            }, {
+               "date_added": "13145903278202495",
+               "id": "43",
+               "meta_info": {
+                  "last_visited_desktop": "13156492705301003"
+               },
+               "name": "Ruby Interview Questions | Interview Cake",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.interviewcake.com/ruby-interview-questions"
+            }, {
+               "date_added": "13145903282410282",
+               "id": "44",
+               "meta_info": {
+                  "last_visited_desktop": "13156492736286856"
+               },
+               "name": "11 Ruby on Rails Interview Practice Questions | Codementor",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.codementor.io/ruby-on-rails/tutorial/ruby-on-rails-interview-questions"
+            }, {
+               "date_added": "13145903286177343",
+               "id": "45",
+               "meta_info": {
+                  "last_visited_desktop": "13156492719801022"
+               },
+               "name": "10 Essential Ruby interview questions and answers - Upwork™",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.upwork.com/i/interview-questions/ruby/"
+            }, {
+               "date_added": "13146163351978504",
+               "id": "46",
+               "meta_info": {
+                  "last_visited_desktop": "13146580493077719"
+               },
+               "name": "50+ Ruby on Rails Interview Questions - RubyGarage",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://rubygarage.org/blog/how-to-interview-your-ruby-on-rails-developer"
+            }, {
+               "date_added": "13146746283599208",
+               "id": "47",
+               "meta_info": {
+                  "last_visited_desktop": "13146746283599680"
+               },
+               "name": "Java Best practices: Image Compression using Java JAI API",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://javapracs.blogspot.com/2011/06/image-compression-using-java-jai-api.html"
+            }, {
+               "date_added": "13146827897859679",
+               "id": "48",
+               "meta_info": {
+                  "last_visited_desktop": "13150376971447999"
+               },
+               "name": "Vim Plugins and Pathogen - Tricks of the Trades",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.tricksofthetrades.net/2015/07/27/notes-vim-pathogen-plugins/"
+            }, {
+               "date_added": "13146828815758932",
+               "id": "49",
+               "meta_info": {
+                  "last_visited_desktop": "13163132267876360"
+               },
+               "name": "YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13147075034360163",
+               "id": "50",
+               "meta_info": {
+                  "last_visited_desktop": "13157030834424092"
+               },
+               "name": "Ruby on Rails Development Case Studies | RailsCarma",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.railscarma.com/case-studies/"
+            }, {
+               "date_added": "13147952809791732",
+               "id": "51",
+               "meta_info": {
+                  "last_visited_desktop": "13147952809792375"
+               },
+               "name": "React On Rails Application - part 1 [tutorial] - Nopio Blog",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.nopio.com/blog/react-rails-part-1-tutorial/"
+            }, {
+               "date_added": "13148109442777425",
+               "id": "52",
+               "meta_info": {
+                  "last_visited_desktop": "13148109442777752"
+               },
+               "name": "Learn Ruby: 29 of The Best Online Educational Resources to Learn to Ruby and Ruby on Rails | SkilledUp",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.skilledup.com/guides/learn-ruby-programming-language-course-guide"
+            }, {
+               "date_added": "13148118538326375",
+               "id": "53",
+               "meta_info": {
+                  "last_visited_desktop": "13148388434927505"
+               },
+               "name": "RubyMonk - Ruby Primer - Modules as Namespaces",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://rubymonk.com/learning/books/1-ruby-primer/chapters/35-modules/lessons/80-modules-as-namespaces"
+            }, {
+               "date_added": "13148391471959186",
+               "id": "54",
+               "meta_info": {
+                  "last_visited_desktop": "13149586178295171"
+               },
+               "name": "Building a static blog with nanoc | clarkdave.net",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://clarkdave.net/2012/02/building-a-static-blog-with-nanoc/"
+            }, {
+               "date_added": "13148737459633875",
+               "id": "55",
+               "meta_info": {
+                  "last_visited_desktop": "13148737459655271"
+               },
+               "name": "Using the Prism.js syntax highlighter | Go Make Things",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://gomakethings.com/using-the-prism-js-syntax-highlighter/"
+            }, {
+               "date_added": "13149251964002353",
+               "id": "56",
+               "meta_info": {
+                  "last_visited_desktop": "13149583568944501"
+               },
+               "name": "Token-Based API Authentication",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.mccartie.com/2016/11/03/token-based-api-authentication.html"
+            }, {
+               "date_added": "13149252698975487",
+               "id": "57",
+               "meta_info": {
+                  "last_visited_desktop": "13157044343164062"
+               },
+               "name": "Token-based authentication with Ruby on Rails 5 API (Example) | hack.guides()",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.pluralsight.com/guides/ruby-ruby-on-rails/token-based-authentication-with-ruby-on-rails-5-api"
+            }, {
+               "date_added": "13149328234862309",
+               "id": "58",
+               "meta_info": {
+                  "last_visited_desktop": "13149586157856364"
+               },
+               "name": "Setting up Users and Authentication for our API - Thinkster",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://thinkster.io/tutorials/rails-json-api/setting-up-users-and-authentication-for-our-api"
+            }, {
+               "date_added": "13149441623905319",
+               "id": "59",
+               "meta_info": {
+                  "last_visited_desktop": "13149586209296245"
+               },
+               "name": "plataformatec/devise at 3-stable",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/plataformatec/devise/tree/3-stable#strong-parameters"
+            }, {
+               "date_added": "13149528665684830",
+               "id": "60",
+               "meta_info": {
+                  "last_visited_desktop": "13149587034251545"
+               },
+               "name": "Authenticate Your Rails API with JWT from Scratch — SitePoint",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.sitepoint.com/authenticate-your-rails-api-with-jwt-from-scratch/"
+            }, {
+               "date_added": "13149567555393070",
+               "id": "61",
+               "meta_info": {
+                  "last_visited_desktop": "13159969833748484"
+               },
+               "name": "Building the Perfect Rails 5 API Only App | Sourcey",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://sourcey.com/building-the-prefect-rails-5-api-only-app/"
+            }, {
+               "date_added": "13149586318968752",
+               "id": "62",
+               "meta_info": {
+                  "last_visited_desktop": "13159971192862936"
+               },
+               "name": "API JSON authentication with Devise",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://gist.github.com/jwo/1255275/842756ae71fcb4fb5bb6ab8b5fd7019470725c70"
+            }, {
+               "date_added": "13150036970446065",
+               "id": "63",
+               "meta_info": {
+                  "last_visited_desktop": "13162641294479327"
+               },
+               "name": "How To Install Arch Linux Latest Version - OSTechNix",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.ostechnix.com/install-arch-linux-latest-version/"
+            }, {
+               "date_added": "13150279117934826",
+               "id": "64",
+               "meta_info": {
+                  "last_visited_desktop": "13150279117935194"
+               },
+               "name": "Better Specs { rspec guidelines with ruby }",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.betterspecs.org/"
+            }, {
+               "date_added": "13150290725998567",
+               "id": "65",
+               "meta_info": {
+                  "last_visited_desktop": "13150363626203307"
+               },
+               "name": "Reading \"Everyday Rails Testing with RSpec\" | Leanpub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://leanpub.com/everydayrailsrspec/read_sample"
+            }, {
+               "date_added": "13150380967448575",
+               "id": "66",
+               "meta_info": {
+                  "last_visited_desktop": "13150380967449044"
+               },
+               "name": "Testing a Rails API With RSpec | Andres Alvarez",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://aalvarez.me/blog/posts/testing-a-rails-api-with-rspec.html"
+            }, {
+               "date_added": "13150454861332994",
+               "id": "67",
+               "meta_info": {
+                  "last_visited_desktop": "13150454861333213"
+               },
+               "name": "Using rails-api to build an authenticated JSON API with warden | code - lucatironi",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://lucatironi.net/tutorial/2015/08/23/rails_api_authentication_warden/"
+            }, {
+               "date_added": "13150568877833588",
+               "id": "68",
+               "meta_info": {
+                  "last_visited_desktop": "13150697671840047"
+               },
+               "name": "e-Account - Sanima Bank",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://eaccount.sanimabank.com/account-document/eyJpdiI6Im1rY1BmY3hcL3BJXC9lcGZ2ek9OWnlEUT09IiwidmFsdWUiOiI5S1V1b2F4YUhOVHNiZVh4N2pEWXZXTHY0NEZaVUJoK2FaaW1iS3F4S1BNPSIsIm1hYyI6Ijc0ZDNjZDkyNzQzMzA2ZTMxNDllNTMyOWU3MTUzYTQ1MDgwNzhhNmZmNWNhODQ5Nzk4NWY2YjIwOTYwYjM2MmQifQ==?tokenId=7694fac0c3"
+            }, {
+               "date_added": "13150605704919914",
+               "id": "69",
+               "meta_info": {
+                  "last_visited_desktop": "13150605704920030"
+               },
+               "name": "Ubuntu Manpage: i3status - Generates a status line for i3bar, dzen2, xmobar or lemonbar",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://manpages.ubuntu.com/manpages/zesty/man1/i3status.1.html"
+            }, {
+               "date_added": "13151385126402148",
+               "id": "70",
+               "meta_info": {
+                  "last_visited_desktop": "13151943398303440"
+               },
+               "name": "React + Flux backed by Rails API - Part 1 | Fancy Pixel",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://fancypixel.github.io/blog/2015/01/28/react-plus-flux-backed-by-rails-api/"
+            }, {
+               "date_added": "13151570313801368",
+               "id": "71",
+               "meta_info": {
+                  "last_visited_desktop": "13151570313801687"
+               },
+               "name": "Learnetto: Online courses, Learn to make web and mobile apps",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://learnetto.com/"
+            }, {
+               "date_added": "13151571311853611",
+               "id": "72",
+               "meta_info": {
+                  "last_visited_desktop": "13151571311853847"
+               },
+               "name": "Step by Step Guide To Building React Redux Apps – rajaraodv – Medium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a"
+            }, {
+               "date_added": "13151571637931897",
+               "id": "73",
+               "meta_info": {
+                  "last_visited_desktop": "13151571637932150"
+               },
+               "name": "Fullstack React 🐬 Book - The Complete Guide to ReactJS and Friends",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.fullstackreact.com/"
+            }, {
+               "date_added": "13151571757017154",
+               "id": "74",
+               "meta_info": {
+                  "last_visited_desktop": "13152085751704886"
+               },
+               "name": "Fullstack React: How to get \"create-react-app\" to work with your API",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/"
+            }, {
+               "date_added": "13151586989202924",
+               "id": "75",
+               "meta_info": {
+                  "last_visited_desktop": "13151586989203263"
+               },
+               "name": "React.js Forms: Controlled Components",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/"
+            }, {
+               "date_added": "13151675620884223",
+               "id": "76",
+               "meta_info": {
+                  "last_visited_desktop": "13151675620884605"
+               },
+               "name": "React - Create (POST)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codereviewvideos.com/course/symfony-3-with-reactjs-and-angular/video/react-create-post"
+            }, {
+               "date_added": "13151675975588950",
+               "id": "77",
+               "meta_info": {
+                  "last_visited_desktop": "13151675975589450"
+               },
+               "name": "API - POST to Create New Data",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codereviewvideos.com/course/symfony-3-with-reactjs-and-angular/video/api-post-to-create-new-data"
+            }, {
+               "date_added": "13151761378297848",
+               "id": "78",
+               "meta_info": {
+                  "last_visited_desktop": "13152274176788596"
+               },
+               "name": "Getting Started with Redux from @dan_abramov on @eggheadio",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://egghead.io/courses/getting-started-with-redux"
+            }, {
+               "date_added": "13151761381576520",
+               "id": "79",
+               "meta_info": {
+                  "last_visited_desktop": "13152158050332895"
+               },
+               "name": "Building React Applications with Idiomatic Redux from @dan_abramov on @eggheadio",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://egghead.io/courses/building-react-applications-with-idiomatic-redux"
+            }, {
+               "date_added": "13151869010802720",
+               "id": "80",
+               "meta_info": {
+                  "last_visited_desktop": "13151944851844652"
+               },
+               "name": "React + Redux Tutorial Part III: Async Redux",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.thegreatcodeadventure.com/react-redux-tutorial-part-iii-async-redux/"
+            }, {
+               "date_added": "13151896595735689",
+               "id": "81",
+               "meta_info": {
+                  "last_visited_desktop": "13151896595736069"
+               },
+               "name": "React and Redux Sagas Authentication App Tutorial",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://start.jcolemorrison.com/react-and-redux-sagas-authentication-app-tutorial/"
+            }, {
+               "date_added": "13151902230008071",
+               "id": "82",
+               "meta_info": {
+                  "last_visited_desktop": "13151902230008652"
+               },
+               "name": "Tips to handle Authentication in Redux – Mattia Manzati – Medium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/@MattiaManzati/tips-to-handle-authentication-in-redux-4d596e11bb21"
+            }, {
+               "date_added": "13151902348790274",
+               "id": "83",
+               "meta_info": {
+                  "last_visited_desktop": "13152087570645289"
+               },
+               "name": "Building a React/Redux App with JSON Web Token (JWT) Authentication",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication/"
+            }, {
+               "date_added": "13151981876671630",
+               "id": "84",
+               "meta_info": {
+                  "last_visited_desktop": "13151981876672163"
+               },
+               "name": "redux-token-auth",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.npmjs.com/package/redux-token-auth"
+            }, {
+               "date_added": "13151995191295170",
+               "id": "85",
+               "meta_info": {
+                  "last_visited_desktop": "13160120291196958"
+               },
+               "name": "React + Redux - User Registration and Login Tutorial & Example | Jason Watmore's Blog",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example"
+            }, {
+               "date_added": "13152009330253569",
+               "id": "86",
+               "meta_info": {
+                  "last_visited_desktop": "13152149112064517"
+               },
+               "name": "https://github.com/cornflourblue/react-redux-registration-login-example/tree/master/src/_constants",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/cornflourblue/react-redux-registration-login-example/tree/master/src/_constants"
+            }, {
+               "date_added": "13152280522426891",
+               "id": "87",
+               "meta_info": {
+                  "last_visited_desktop": "13161864719968778"
+               },
+               "name": "A Guide For Building A React Redux CRUD App – rajaraodv – Medium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f"
+            }, {
+               "date_added": "13152672186907136",
+               "id": "88",
+               "meta_info": {
+                  "last_visited_desktop": "13152690015068030"
+               },
+               "name": "Adding custom mime type for 'application/vnd.api+json' seems to be required to receive data from clients using JSON API · Issue #1027 · rails-api/active_model_serializers",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/rails-api/active_model_serializers/issues/1027"
+            }, {
+               "date_added": "13153195950231512",
+               "id": "89",
+               "meta_info": {
+                  "last_visited_desktop": "13153305108976973"
+               },
+               "name": "Role-based authorization using React-Router | Front-End Insights",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://frontendinsights.com/role-based-authorization-using-react-router/"
+            }, {
+               "date_added": "13153310315097983",
+               "id": "90",
+               "meta_info": {
+                  "last_visited_desktop": "13153310315098617"
+               },
+               "name": "Adding Login and Authentication Sections to your React or React Native app",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/the-many/adding-login-and-authentication-sections-to-your-react-or-react-native-app-7767fd251bd1"
+            }, {
+               "date_added": "13153396578563956",
+               "id": "91",
+               "meta_info": {
+                  "last_visited_desktop": "13153396578564468"
+               },
+               "name": "3 Reasons why I stopped using React.setState – CloudBoost",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.cloudboost.io/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e"
+            }, {
+               "date_added": "13153455809260611",
+               "id": "92",
+               "meta_info": {
+                  "last_visited_desktop": "13153466199587835"
+               },
+               "name": "Reducers · Redux",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://redux.js.org/docs/basics/Reducers.html"
+            }, {
+               "date_added": "13154530061820288",
+               "id": "93",
+               "meta_info": {
+                  "last_visited_desktop": "13155193455624528"
+               },
+               "name": "लाइसेन्स नतिजा",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.dotm.gov.np/jagati/license-result/"
+            }, {
+               "date_added": "13155834180970611",
+               "id": "94",
+               "meta_info": {
+                  "last_visited_desktop": "13162375886563636"
+               },
+               "name": "Credentials - Landing Page",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://console.developers.google.com/apis/credentials?project=landing-page-178206"
+            }, {
+               "date_added": "13155965066176033",
+               "id": "95",
+               "meta_info": {
+                  "last_visited_desktop": "13155972519660416"
+               },
+               "name": "maksimr/vim-jsbeautify: vim plugin which formated javascript files by js-beautify",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/maksimr/vim-jsbeautify"
+            }, {
+               "date_added": "13156425766381433",
+               "id": "96",
+               "meta_info": {
+                  "last_visited_desktop": "13156425766381785"
+               },
+               "name": "reveal-md-export",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.npmjs.com/package/reveal-md-export"
+            }, {
+               "date_added": "13156600552404806",
+               "id": "97",
+               "meta_info": {
+                  "last_visited_desktop": "13156600552432914"
+               },
+               "name": "Gmail API and Rails - Authorize with OAuth via Omniauth",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.twilio.com/blog/2014/09/gmail-api-oauth-rails.html"
+            }, {
+               "date_added": "13156659175178033",
+               "id": "98",
+               "meta_info": {
+                  "last_visited_desktop": "13156659175178788"
+               },
+               "name": "Keybindings strategies in Emacs · Samuel Barreto",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://sam217pa.github.io/2016/09/23/keybindings-strategies-in-emacs/"
+            }, {
+               "date_added": "13157011100294591",
+               "id": "99",
+               "meta_info": {
+                  "last_visited_desktop": "13157546047394074"
+               },
+               "name": "Social Login with OmniAuth and Rails 5.0 – Ajay Ramesh – Medium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/@ajayramesh/social-login-with-omniauth-and-rails-5-0-ad2bbd2a998e"
+            }, {
+               "date_added": "13157045496518488",
+               "id": "100",
+               "meta_info": {
+                  "last_visited_desktop": "13157045496518718"
+               },
+               "name": "Quick-start sample app for Ruby  |  Google+ Platform for Web  |  Google Developers",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://developers.google.com/+/web/samples/ruby"
+            }, {
+               "date_added": "13157046281003698",
+               "id": "101",
+               "meta_info": {
+                  "last_visited_desktop": "13157203563509137"
+               },
+               "name": "Lets Devise a Google oAuth Login with Rails · InterExchange",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.interexchange.org/articles/engineering/lets-devise-google-oauth-login/"
+            }, {
+               "date_added": "13157089783170056",
+               "id": "102",
+               "meta_info": {
+                  "last_visited_desktop": "13159343670731693"
+               },
+               "name": "Google Integration Using Devise and Omniauth In Rails App. | Ruby on Rails",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://deepakrip007.wordpress.com/2013/11/05/google-integration-using-devise-and-omniauth-in-rails-app/"
+            }, {
+               "date_added": "13157119294401680",
+               "id": "103",
+               "meta_info": {
+                  "last_visited_desktop": "13157203576939126"
+               },
+               "name": "Gmail Gem & omniauth-google-oauth2 Setup in a Rails App - Mark Gandolfo",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://markgandolfo.com/blog/2016/01/05/gmail-gem-and-omniauth-google-oauth2-setup-in-a-rails-app/"
+            }, {
+               "date_added": "13157543300443361",
+               "id": "104",
+               "meta_info": {
+                  "last_visited_desktop": "13157543300443852"
+               },
+               "name": "React Authentication is Easy with Auth0",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://davidwalsh.name/react-authentication"
+            }, {
+               "date_added": "13157651211272766",
+               "id": "105",
+               "meta_info": {
+                  "last_visited_desktop": "13159437223163258"
+               },
+               "name": "react-google-login-component",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.npmjs.com/package/react-google-login-component"
+            }, {
+               "date_added": "13157737446801652",
+               "id": "106",
+               "meta_info": {
+                  "last_visited_desktop": "13159437255446569"
+               },
+               "name": "devise - Linkedin OAuth authentification with React Frontend + Rails API - Stack Overflow",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/44410309/linkedin-oauth-authentification-with-react-frontend-rails-api"
+            }, {
+               "date_added": "13157787027016826",
+               "id": "107",
+               "meta_info": {
+                  "last_visited_desktop": "13157797511329334"
+               },
+               "name": "Client side OAuth with google calendar api using React frontend and Rails backend - Stack Overflow",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/35139595/client-side-oauth-with-google-calendar-api-using-react-frontend-and-rails-backen?answertab=oldest#tab-top"
+            }, {
+               "date_added": "13157902202191859",
+               "id": "108",
+               "meta_info": {
+                  "last_visited_desktop": "13159343718626824"
+               },
+               "name": "ruby on rails - Passing parameters through OmniAuth - Stack Overflow",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/9890985/passing-parameters-through-omniauth"
+            }, {
+               "date_added": "13158257031336340",
+               "id": "109",
+               "meta_info": {
+                  "last_visited_desktop": "13159345386649652"
+               },
+               "name": "How to start a beautiful personal blog using Medium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.markgrowth.com/how-to-start-a-beautiful-personal-blog-using-medium-ca6d89b7e46"
+            }, {
+               "date_added": "13158323743877795",
+               "id": "110",
+               "meta_info": {
+                  "last_visited_desktop": "13158323744009999"
+               },
+               "name": "OAuth 2.0 for Client-side Web Applications  |  Google Identity Platform  |  Google Developers",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://developers.google.com/identity/protocols/OAuth2UserAgent"
+            }, {
+               "date_added": "13158329860378086",
+               "id": "111",
+               "meta_info": {
+                  "last_visited_desktop": "13159345449071100"
+               },
+               "name": "React Simple Auth: React + Redux + OAuth 2.0 – Matt Mazzola – Medium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/@mattmazzola/react-simple-auth-react-redux-oauth-2-0-de6ea9df0a63"
+            }, {
+               "date_added": "13158330351824054",
+               "id": "112",
+               "meta_info": {
+                  "last_visited_desktop": "13158330351824532"
+               },
+               "name": "client oauth - npm search",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.npmjs.com/search?q=client%20oauth&page=1&ranking=optimal"
+            }, {
+               "date_added": "13158596168628793",
+               "id": "113",
+               "meta_info": {
+                  "last_visited_desktop": "13158596168629079"
+               },
+               "name": "Background Processing with Rails, Redis and Sidekiq - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=GBEDvF1_8B8"
+            }, {
+               "date_added": "13158844906988214",
+               "id": "114",
+               "meta_info": {
+                  "last_visited_desktop": "13158844906988622"
+               },
+               "name": "Andrzej on Software: REST: Some tips and implementing \"Forgot your password?\"",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://andrzejonsoftware.blogspot.com/2008/10/rest-some-tips-and-implementing-your.html"
+            }, {
+               "date_added": "13158848071636660",
+               "id": "115",
+               "meta_info": {
+                  "last_visited_desktop": "13160218294165870"
+               },
+               "name": "ruby - Rails devise_token_auth gem, how do I set password reset link? - Stack Overflow",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/37692756/rails-devise-token-auth-gem-how-do-i-set-password-reset-link"
+            }, {
+               "date_added": "13159165789904596",
+               "id": "116",
+               "meta_info": {
+                  "last_visited_desktop": "13159165802811553"
+               },
+               "name": "Playbook for software design and development - By thoughtbot",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://thoughtbot.com/playbook"
+            }, {
+               "date_added": "13159524901100602",
+               "id": "117",
+               "meta_info": {
+                  "last_visited_desktop": "13162472020008794"
+               },
+               "name": "Responsive UI - Layout - Material Design",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://material.io/guidelines/layout/responsive-ui.html#responsive-ui-breakpoints"
+            }, {
+               "date_added": "13159529711503756",
+               "id": "118",
+               "meta_info": {
+                  "last_visited_desktop": "13159529711504122"
+               },
+               "name": "reactstrap - Jumbotron",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://reactstrap.github.io/components/jumbotron/"
+            }, {
+               "date_added": "13159622440562367",
+               "id": "119",
+               "meta_info": {
+                  "last_visited_desktop": "13159862696882034"
+               },
+               "name": "Unit testing your React application with Jest and Enzyme",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/wehkamp-techblog/unit-testing-your-react-application-with-jest-and-enzyme-81c5545cee45"
+            }, {
+               "date_added": "13159762007260675",
+               "id": "120",
+               "meta_info": {
+                  "last_visited_desktop": "13159762007260931"
+               },
+               "name": "Upcase by thoughtbot | Learn Web Development Online",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://thoughtbot.com/upcase/design-for-developers-resources"
+            }, {
+               "date_added": "13159848505652629",
+               "id": "121",
+               "meta_info": {
+                  "last_visited_desktop": "13159848505653325"
+               },
+               "name": "",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://twitter.com/intent/tweet?text=%22%E2%80%8B%22%20via%20%40MaxCDN%3A&url=https%3A%2F%2Fwww.maxcdn.com%2Fone%2Fvisual-glossary%2Fweb-application%2F%3Futm_source%3Dtxt&original_referer=https%3A%2F%2Fwww.maxcdn.com%2Fone%2Fvisual-glossary%2Fweb-application%2F"
+            }, {
+               "date_added": "13159886156365803",
+               "id": "122",
+               "meta_info": {
+                  "last_visited_desktop": "13159971518930951"
+               },
+               "name": "Unit Testing Redux using Mocha",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://welllin.net/unit-testing-redux-using-mocha/"
+            }, {
+               "date_added": "13159886187770109",
+               "id": "123",
+               "meta_info": {
+                  "last_visited_desktop": "13159969845213947"
+               },
+               "name": "Unit Testing a Redux App | Codementor",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.codementor.io/mz026/unit-testing-a-redux-app-9wzb5uwlq"
+            }, {
+               "date_added": "13159950055246005",
+               "id": "124",
+               "name": "New Tab",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "chrome://newtab/"
+            }, {
+               "date_added": "13159964167937611",
+               "id": "125",
+               "meta_info": {
+                  "last_visited_desktop": "13159971209723601"
+               },
+               "name": "Set up a testing environment with React + enzyme + Mocha – Ricardo Magalhães",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://blog.ricardofilipe.com/post/react-enzyme-tdd-tutorial"
+            }, {
+               "date_added": "13160037456837304",
+               "id": "126",
+               "meta_info": {
+                  "last_visited_desktop": "13160473072096332"
+               },
+               "name": "Writing Tests · Redux",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://redux.js.org/docs/recipes/WritingTests.html"
+            }, {
+               "date_added": "13160051126637887",
+               "id": "127",
+               "meta_info": {
+                  "last_visited_desktop": "13160051126655565"
+               },
+               "name": "chai Meaning in the Cambridge English Dictionary",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://dictionary.cambridge.org/dictionary/english/chai"
+            }, {
+               "date_added": "13160109946731568",
+               "id": "128",
+               "meta_info": {
+                  "last_visited_desktop": "13160122390703240"
+               },
+               "name": "unexpected token (rest spread operator) · Issue #170 · babel/babel-loader",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/babel/babel-loader/issues/170"
+            }, {
+               "date_added": "13160124471929263",
+               "id": "129",
+               "meta_info": {
+                  "last_visited_desktop": "13160124471946585"
+               },
+               "name": "react-redux-links/react-redux-testing.md at master · markerikson/react-redux-links",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/markerikson/react-redux-links/blob/master/react-redux-testing.md"
+            }, {
+               "date_added": "13160124659422846",
+               "id": "130",
+               "meta_info": {
+                  "last_visited_desktop": "13160124659423412"
+               },
+               "name": "Async Action Creator Unit Testing",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://joeellis.la/testing-redux-actions/"
+            }, {
+               "date_added": "13160138885263985",
+               "id": "131",
+               "meta_info": {
+                  "last_visited_desktop": "13160138885264600"
+               },
+               "name": "axios: Test requests by stubbing – Kier Borromeo – Medium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/@srph/axios-easily-test-requests-f04caf49e057"
+            }, {
+               "date_added": "13160210522736722",
+               "id": "132",
+               "meta_info": {
+                  "last_visited_desktop": "13160210636515220"
+               },
+               "name": "Tutorials ― Scotch",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://scotch.io/tutorials?hFR%5Bcategory%5D%5B0%5D=Tutorials&dFR%5B_tags%5D%5B0%5D=react"
+            }, {
+               "date_added": "13160215553724337",
+               "id": "133",
+               "meta_info": {
+                  "last_visited_desktop": "13160215553724686"
+               },
+               "name": "chai http post not working · Issue #77 · chaijs/chai-http",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/chaijs/chai-http/issues/77"
+            }, {
+               "date_added": "13160218085867830",
+               "id": "134",
+               "meta_info": {
+                  "last_visited_desktop": "13160218085868134"
+               },
+               "name": "axios/moxios: Mock axios requests for testing",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/axios/moxios"
+            }, {
+               "date_added": "13160560152346535",
+               "id": "135",
+               "meta_info": {
+                  "last_visited_desktop": "13161617090790941"
+               },
+               "name": "Compiling · jaagr/polybar Wiki",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/jaagr/polybar/wiki/Compiling"
+            } ],
+            "date_added": "13163490285549101",
+            "date_modified": "13163490285549101",
+            "id": "12",
+            "name": "Popular",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13086416370856000",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13161609896558252"
+            },
+            "name": "Quota Scheme - Development cooperation - Programme information SIU",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://siu.no/eng/Front-Page/Programme-information/Development-cooperation/Quota-Scheme/(view)/5301"
+         }, {
+            "date_added": "13132147580879716",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13160465230750809"
+            },
+            "name": "software installation - Installing Oracle database 12c on Ubuntu 14.04 - Ask Ubuntu",
+            "sync_transaction_version": "13",
+            "type": "url",
+            "url": "http://askubuntu.com/questions/470349/installing-oracle-database-12c-on-ubuntu-14-04"
+         }, {
+            "date_added": "13136790736204765",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13159346046323730"
+            },
+            "name": "A Comparative Study and Literature Review of Image Steganography Techniques | IJSTE Journal - Academia.edu",
+            "sync_transaction_version": "14",
+            "type": "url",
+            "url": "http://www.academia.edu/14169243/A_Comparative_Study_and_Literature_Review_of_Image_Steganography_Techniques"
+         }, {
+            "date_added": "13137341124242931",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13137341124243823"
+            },
+            "name": "Cover Letter Builder",
+            "sync_transaction_version": "15",
+            "type": "url",
+            "url": "https://www.livecareer.com/builder/letters/edit.aspx"
+         }, {
+            "date_added": "13137692573218233",
+            "id": "17",
+            "meta_info": {
+               "last_visited_desktop": "13137692573218751"
+            },
+            "name": "115 Java Interview Questions and Answers - The ULTIMATE List",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html"
+         }, {
+            "date_added": "13137692628032637",
+            "id": "18",
+            "meta_info": {
+               "last_visited_desktop": "13137742029750160"
+            },
+            "name": "Top 10 Tricky Java interview questions and Answers | Java67",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.java67.com/2012/09/top-10-tricky-java-interview-questions-answers.html"
+         }, {
+            "date_added": "13138200107809400",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13138378597753383"
+            },
+            "name": "Tribhuvan University Central Library catalog › Results of search for 'su,complete-subfield:Dairy Development Corporation'",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://202.70.82.238/cgi-bin/koha/opac-search.pl?q=su,complete-subfield:Dairy%20Development%20Corporation"
+         }, {
+            "date_added": "13142999413589779",
+            "id": "20",
+            "meta_info": {
+               "last_visited_desktop": "13142999413590042"
+            },
+            "name": "Job Application for Ruby Developer, Content Group at Envato",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://boards.greenhouse.io/envato/jobs/524294?gh_src=c561ew1#.WVGvNHWGPQo"
+         }, {
+            "date_added": "13144759100810352",
+            "id": "21",
+            "meta_info": {
+               "last_visited_desktop": "13145516328044847"
+            },
+            "name": "Easy Angular 4 Rails 5 Tutorial",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.angularonrails.com/getting-started-with-angular-and-rails/"
+         }, {
+            "date_added": "13157198088454951",
+            "id": "22",
+            "meta_info": {
+               "last_visited_desktop": "13157198088455328"
+            },
+            "name": "[Help] Trouble with omniauth-google-oauth2 saving the refresh_token : rails",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.reddit.com/r/rails/comments/3unhkn/help_trouble_with_omniauthgoogleoauth2_saving_the/"
+         }, {
+            "date_added": "13157199771121950",
+            "id": "23",
+            "meta_info": {
+               "last_visited_desktop": "13157200000625685"
+            },
+            "name": "Gmail API(via IMAP) In Ruby on Rails – A piece of cake | Deep In Rails",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://pramodbshinde.wordpress.com/2014/12/07/gmail-api-in-ruby-on-rails-a-piece-of-cake/"
+         } ],
+         "date_added": "13163490046367070",
+         "date_modified": "13157199771121950",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13163490285547047",
+            "date_modified": "13163490285547047",
+            "id": "6",
+            "name": "Pgfhhhvccvcxxggghvpkjvghkh",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         } ],
+         "date_added": "13163490046367076",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "15",
+      "synced": {
+         "children": [ {
+            "date_added": "13145946841380564",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13145985279700893"
+            },
+            "name": "YouCompleteMe — Ultimate Autocomplete Plugin for Vim | Alexey Shmalko's Personal Blog",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.alexeyshmalko.com/2014/youcompleteme-ultimate-autocomplete-plugin-for-vim/"
+         } ],
+         "date_added": "13163490046367077",
+         "date_modified": "13145946841380564",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

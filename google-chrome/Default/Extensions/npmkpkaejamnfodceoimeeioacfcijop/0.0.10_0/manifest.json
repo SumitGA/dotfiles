@@ -1,0 +1,16 @@
+{
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'; style-src * 'unsafe-inline'; img-src 'self' data:;",
+   "description": "Use Redux DevTools in the DevTools",
+   "devtools_page": "devtools.html",
+   "icons": {
+      "128": "img/logo/128x128.png",
+      "16": "img/logo/16x16.png",
+      "48": "img/logo/48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApRH6Rz49NPZ9Z9vlKviOeeTBzVlwB/ySuBmQnjx21zKcyOrpyygU7aZs1QSYhBRN6PAj4YFhnJC7pdksJIxs8thwoc8qO5vJ2dxssZ/ksD0DhQk0nEpzP90LJzQ+3u0BumEo5NHjmZ2BontNT8sNsFDLUMKQE3ojj3VPK2XNzgo3mOw6Ox8OTeX60SuXH+0vX2umodIz4jKiWA7+FMgIDLkArIzC6IowQxPUQL8EOzBrqEeLjr7gA0b8r6+EBQCg2byeEEV3hxTeqyrgbwhQ3LPmnqBqmUoT1oSSSQ4j/2WC+immtWiDtil978clbu7q3stltNpefa84EKJCsM2DEQIDAQAB",
+   "manifest_version": 2,
+   "name": "RemoteDev DevTools",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.10"
+}

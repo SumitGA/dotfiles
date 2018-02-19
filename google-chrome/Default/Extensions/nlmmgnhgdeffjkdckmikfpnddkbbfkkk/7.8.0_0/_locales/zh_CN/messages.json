@@ -1,0 +1,434 @@
+{
+   "buttonsAddTT": {
+      "message": "增加新规则"
+   },
+   "buttonsClose": {
+      "message": "关闭"
+   },
+   "buttonsDiscard": {
+      "message": "放弃"
+   },
+   "buttonsDiscardManage": {
+      "message": "放弃更改并管理配置文件"
+   },
+   "buttonsDiscardSwitch": {
+      "message": "放弃更改并切换配置文件"
+   },
+   "buttonsExport": {
+      "message": "导出"
+   },
+   "buttonsExportTT": {
+      "message": "导出设置到CSV文件"
+   },
+   "buttonsGenerateRules": {
+      "message": "生成自动填充规则"
+   },
+   "buttonsGenerateRulesTT": {
+      "message": "创建规则或更新已存在的规则"
+   },
+   "buttonsHelp": {
+      "message": "帮助"
+   },
+   "buttonsHelpTT": {
+      "message": "帮助"
+   },
+   "buttonsImport": {
+      "message": "导入"
+   },
+   "buttonsImportTT": {
+      "message": "从CSV文件导入设置"
+   },
+   "buttonsReset": {
+      "message": "重置"
+   },
+   "buttonsResetTT": {
+      "message": "还原更改"
+   },
+   "buttonsSave": {
+      "message": "保存"
+   },
+   "buttonsSaveTT": {
+      "message": "保存选项"
+   },
+   "generalAddRule": {
+      "message": "为此字段增加规则…"
+   },
+   "generalAddRules": {
+      "message": "为此页面增加规则…"
+   },
+   "generalDescription": {
+      "message": "进行表单填充。"
+   },
+   "generalExecute": {
+      "message": "使用配置"
+   },
+   "generalOptions": {
+      "message": "Autofill 设定"
+   },
+   "moveRuleTT": {
+      "message": "移动此规则到其它配置文件"
+   },
+   "optionsExceptionsIntro": {
+      "message": "也许你有一些不希望Autofill激活的页面。在这里每一行填写一个标题或页面URL，支持\u003Ca href=\"http://www.w3schools.com/jsref/jsref_obj_regexp.asp\" target=\"_blank\">正则表达式\u003C/a>。"
+   },
+   "optionsFieldsConfirmation": {
+      "message": "确认"
+   },
+   "optionsFieldsMove": {
+      "message": "移动规则"
+   },
+   "optionsFieldsNameCol": {
+      "message": "名称"
+   },
+   "optionsFieldsNameColHelp": {
+      "message": "自动填充文本标签，“姓名”或“ID”。"
+   },
+   "optionsFieldsNameColTooltip": {
+      "message": "\u003Cul>\u003Cli>支持正则表达式。\u003C/li>\u003Cli>在 \u003Ctt>/*\u003C/tt> 与 \u003Ctt>*/\u003C/tt> 之间的内容将被忽略。\u003C/li>\u003Cli>支持部分匹配。\u003C/li>\u003Cli>匹配方式为精确匹配。\u003C/li>\u003C/ul>"
+   },
+   "optionsFieldsOverwrite": {
+      "message": "覆盖非空字段"
+   },
+   "optionsFieldsOverwriteInputTT": {
+      "message": "如果需要覆盖已经有内容的字段进行填充"
+   },
+   "optionsFieldsSelectProfile": {
+      "message": "移动该规则到。"
+   },
+   "optionsFieldsSite": {
+      "message": "站点："
+   },
+   "optionsFieldsSiteCol": {
+      "message": "站点"
+   },
+   "optionsFieldsSiteColHelp": {
+      "message": "需要触发自动填充的文档标题或页面URL。"
+   },
+   "optionsFieldsSiteColTooltip": {
+      "message": "\u003Cul>\u003Cli>支持正则表达式。\u003C/li>\u003Cli>多个过滤规则使用&quot;|&quot;或单行书写。\u003C/li>\u003Cli>支持部分匹配。\u003C/li>\u003Cli>匹配方式为精确匹配。\u003C/li>\u003C/ul>"
+   },
+   "optionsFieldsTypeCol": {
+      "message": "类型"
+   },
+   "optionsFieldsTypeColHelp": {
+      "message": "自动填充字段类型。"
+   },
+   "optionsFieldsValueCol": {
+      "message": "内容"
+   },
+   "optionsFieldsValueColHelp": {
+      "message": "自动填充或选择/勾选的文本。"
+   },
+   "optionsFieldsValueColTooltip": {
+      "message": "\u003Cul>\u003Cli>如果类型 = Select, 项目文本或索引编号会自动选择一个或多个内容。 使用 &quot;!&quot; 选择全部或反选， 使用 &quot;?&quot; 随机选择。\u003C/li>\u003Cli>如果类型 = Checkbox/Radio, 1为检查0则不检查。 使用 &quot;!&quot; 选择全部或反选， 使用 &quot;?&quot; 随机选择。\u003C/li>\u003Cli>如果类型 = JavaScript, 填写 JavaScript 代码， 将会执行。\u003C/li>\u003C/ul>"
+   },
+   "optionsOtherAdvanced": {
+      "message": "高级选项"
+   },
+   "optionsOtherBackup": {
+      "message": "备份超过："
+   },
+   "optionsOtherBackupChars": {
+      "message": "字符的字段"
+   },
+   "optionsOtherBackupCharsInputTT": {
+      "message": "设置备份的最小字符数"
+   },
+   "optionsOtherBackupHelp": {
+      "message": "自动保存文本字段以防浏览器崩溃。"
+   },
+   "optionsOtherDebug": {
+      "message": "Enable debu\u003Cu>g\u003C/u> mode"
+   },
+   "optionsOtherDebugHelp": {
+      "message": "Check this box to show debugging messages in the Chrome console."
+   },
+   "optionsOtherDelay": {
+      "message": "开启自动填充延时："
+   },
+   "optionsOtherDelayHelp": {
+      "message": "在自动填充之前等待一段时间。"
+   },
+   "optionsOtherDelaySec": {
+      "message": "秒"
+   },
+   "optionsOtherDelaySecInputTT": {
+      "message": "设置自动填充前等待的时间（秒）"
+   },
+   "optionsOtherImportAppend": {
+      "message": "追加"
+   },
+   "optionsOtherImportExport": {
+      "message": "导入/导出"
+   },
+   "optionsOtherImportExportIntro": {
+      "message": "导入设置，请粘贴CSV文件内容后点击“导入”。导出设置，点击“导出”后复制生成的数据保存到记事本中，然后以CSV扩展名保存。"
+   },
+   "optionsOtherImportMode": {
+      "message": "导入模式："
+   },
+   "optionsOtherImportReplace": {
+      "message": "替换"
+   },
+   "optionsOtherInterface": {
+      "message": "界面"
+   },
+   "optionsOtherLabelMatch": {
+      "message": "开启标签匹配"
+   },
+   "optionsOtherLabelMatchHelp": {
+      "message": "会对字段标签进行模糊匹配。"
+   },
+   "optionsOtherManual": {
+      "message": "开启手动模式"
+   },
+   "optionsOtherManualHelp": {
+      "message": "只在选择配置文件时执行自动填充。"
+   },
+   "optionsOtherMask": {
+      "message": "掩盖密码"
+   },
+   "optionsOtherMaskHelp": {
+      "message": "使用*号掩盖密码字段。"
+   },
+   "optionsOtherMenu": {
+      "message": "开启右键菜单"
+   },
+   "optionsOtherMenuHelp": {
+      "message": "使用右键菜单来快速填充。"
+   },
+   "optionsOtherOperation": {
+      "message": "执行"
+   },
+   "optionsOtherOverwrite": {
+      "message": "默认开启覆盖选项"
+   },
+   "optionsOtherOverwriteHelp": {
+      "message": "是否自动对非空字段填写。"
+   },
+   "optionsOtherScale": {
+      "message": "自动调整大小"
+   },
+   "optionsOtherScaleHelp": {
+      "message": "自动调整规则表的大小来减少横向拖动。"
+   },
+   "optionsOtherSecurity": {
+      "message": "安全"
+   },
+   "optionsOtherSound": {
+      "message": "开启音效"
+   },
+   "optionsOtherSoundHelp": {
+      "message": "自动填充后会播放音效。"
+   },
+   "optionsOtherVars": {
+      "message": "扩展变量"
+   },
+   "optionsOtherVarsHelp": {
+      "message": "开启此选项后\u003Ctt>{&hellip;}\u003C/tt>会被其它标量替代，从帮助中获得更多信息。"
+   },
+   "optionsOtherVoice": {
+      "message": "开启向导音效："
+   },
+   "optionsOtherVoiceHelp": {
+      "message": "规则保存后会出现音效。"
+   },
+   "optionsProfilesManageDel": {
+      "message": "Dele\u003Cu>t\u003C/u>e"
+   },
+   "optionsProfilesManageMoveDown": {
+      "message": "Move Do\u003Cu>w\u003C/u>n"
+   },
+   "optionsProfilesManageMoveFirst": {
+      "message": "Move to F\u003Cu>i\u003C/u>rst"
+   },
+   "optionsProfilesManageMoveLast": {
+      "message": "Move to \u003Cu>L\u003C/u>ast"
+   },
+   "optionsProfilesManageMoveUp": {
+      "message": "Move \u003Cu>U\u003C/u>p"
+   },
+   "optionsProfilesManageNew": {
+      "message": "\u003Cu>N\u003C/u>ew"
+   },
+   "optionsProfilesManageProfiles": {
+      "message": "管理配置文件"
+   },
+   "optionsProfilesManageRename": {
+      "message": "\u003Cu>R\u003C/u>ename"
+   },
+   "optionsProfilesManageSort": {
+      "message": "\u003Cu>S\u003C/u>ort"
+   },
+   "optionsProfilesMenuAll": {
+      "message": "全部"
+   },
+   "optionsProfilesMenuManage": {
+      "message": "管理…"
+   },
+   "optionsProfilesMenuProfiles": {
+      "message": "&#8212;&#8212;&#8211; 配置文件 &#8211;&#8212;&#8212;"
+   },
+   "optionsProfilesMenuUnfiled": {
+      "message": "未填充"
+   },
+   "optionsSupportKeyboardShortcuts": {
+      "message": "快捷键"
+   },
+   "optionsSupportKeyboardShortcutsTT": {
+      "message": "查看可用的快捷键"
+   },
+   "optionsSupportOnlineHelp": {
+      "message": "在线帮助"
+   },
+   "optionsSupportOnlineHelpTT": {
+      "message": "阅读完整的文档"
+   },
+   "optionsSupportPracticeForm": {
+      "message": "练习表单"
+   },
+   "optionsSupportPracticeFormTT": {
+      "message": "测试新增的填充规则"
+   },
+   "optionsSupportSupportForum": {
+      "message": "支持论坛"
+   },
+   "optionsSupportSupportForumTT": {
+      "message": "提交问题报告或分享建议"
+   },
+   "optionsTabsExceptions": {
+      "message": "例外"
+   },
+   "optionsTabsExceptionsTT": {
+      "message": "自动填充排除的页面或站点"
+   },
+   "optionsTabsFields": {
+      "message": "表单字段"
+   },
+   "optionsTabsFieldsTT": {
+      "message": "选择需要自动填充的字段"
+   },
+   "optionsTabsOther": {
+      "message": "其它标签"
+   },
+   "optionsTabsOtherTT": {
+      "message": "其他需要注意的事情"
+   },
+   "optionsTabsSiteInputTT": {
+      "message": "输入页面标题或URL的一部分来匹配相应的规则"
+   },
+   "optionsTabsSupport": {
+      "message": "支持"
+   },
+   "optionsTabsSupportTT": {
+      "message": "需要帮助？"
+   },
+   "profileTT": {
+      "message": "配置文件"
+   },
+   "removeRuleTT": {
+      "message": "移除此规则"
+   },
+   "reorderRuleTT": {
+      "message": "更改规则"
+   },
+   "selectProfileTT": {
+      "message": "选择配置文件"
+   },
+   "statusCharLimit": {
+      "message": "配置文件名称不可超过30字符。"
+   },
+   "statusDone": {
+      "message": "完成！"
+   },
+   "statusDuplicate": {
+      "message": "检测到重复配置文件名称。"
+   },
+   "statusEnterValue": {
+      "message": "请填写高亮字段。"
+   },
+   "statusImportFailed": {
+      "message": "导入失败 – 到帮助中查看正确的CSV格式。"
+   },
+   "statusImportingExceptions": {
+      "message": "Importing exceptions..."
+   },
+   "statusImportingOption": {
+      "message": "Importing '$1' option..."
+   },
+   "statusImportingProfile": {
+      "message": "Importing profile \"$1\"..."
+   },
+   "statusImportingRule": {
+      "message": "Importing rule $1 of $2..."
+   },
+   "statusIncomplete": {
+      "message": "高亮的字段未填写完成。"
+   },
+   "statusNoChange": {
+      "message": "没有被更改的字段。"
+   },
+   "statusNotSavedStorageLimit": {
+      "message": "无法增加规则 – 规则存储空间已满。"
+   },
+   "statusOptionsSaved": {
+      "message": "设定已保存。"
+   },
+   "statusPageStillLoading": {
+      "message": "页面仍在加载中，请稍后重试。"
+   },
+   "statusProfileCharLimit": {
+      "message": "文件名不可超过30字符。"
+   },
+   "statusProfileDuplicate": {
+      "message": "文件名重复。"
+   },
+   "statusProfileReserved": {
+      "message": "Profile name cannot start with \"——\"."
+   },
+   "statusProfilesSaved": {
+      "message": "配置文件已保存。"
+   },
+   "statusReserved": {
+      "message": "此配置文件名称不可用。"
+   },
+   "statusRuleMoved": {
+      "message": "自动填充规则移动到 \"___\" 配置文件。"
+   },
+   "statusSaveFailed": {
+      "message": "保存失败 – 已经达到最大 5MB 的存储限制。"
+   },
+   "statusSettingsExported": {
+      "message": "设置导出，请复制数据并保存到一个CSV文件。"
+   },
+   "statusSettingsImported": {
+      "message": "设置导入后请到表单字段标签查看规则，点击保存确认更改。"
+   },
+   "statusStorageLimit": {
+      "message": "已达到 5MB 的存储限制。"
+   },
+   "statusUnsavedChanges": {
+      "message": "未保存更改。"
+   },
+   "whatsNewTT": {
+      "message": "最新功能？"
+   },
+   "wizardChooseProfile": {
+      "message": "选择一个配置文件"
+   },
+   "wizardFillField": {
+      "message": "填充字段。"
+   },
+   "wizardFillForm": {
+      "message": "填充全部表单。"
+   },
+   "wizardNew": {
+      "message": "创建…"
+   },
+   "wizardProfileName": {
+      "message": "新配置文件名称"
+   },
+   "wizardTitle": {
+      "message": "自动填充表单字段向导"
+   }
+}

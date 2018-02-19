@@ -1,0 +1,9 @@
+2018/02/19-15:00:26.948 27297 Reusing MANIFEST /home/sumitg/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/02/19-15:00:26.948 27297 Recovering log #3
+2018/02/19-15:00:26.953 27297 Reusing old log /home/sumitg/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2018/02/19-15:11:33.857 28147 Level-0 table #5: started
+2018/02/19-15:11:34.021 28147 Level-0 table #5: 2339065 bytes OK
+2018/02/19-15:11:34.078 28147 Delete type=0 #3
+2018/02/19-16:30:54.216 28147 Level-0 table #7: started
+2018/02/19-16:30:54.379 28147 Level-0 table #7: 1783203 bytes OK
+2018/02/19-16:30:54.436 28147 Delete type=0 #4

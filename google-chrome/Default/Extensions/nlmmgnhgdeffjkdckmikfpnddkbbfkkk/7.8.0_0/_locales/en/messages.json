@@ -1,0 +1,434 @@
+{
+   "buttonsAddTT": {
+      "message": "Add new rule"
+   },
+   "buttonsClose": {
+      "message": "Close"
+   },
+   "buttonsDiscard": {
+      "message": "Discard"
+   },
+   "buttonsDiscardManage": {
+      "message": "Discard Changes and Manage Profiles"
+   },
+   "buttonsDiscardSwitch": {
+      "message": "Discard Changes and Switch Profile"
+   },
+   "buttonsExport": {
+      "message": "E\u003Cu>x\u003C/u>port"
+   },
+   "buttonsExportTT": {
+      "message": "Export settings to CSV file"
+   },
+   "buttonsGenerateRules": {
+      "message": "\u003Cu>G\u003C/u>enerate Autofill Rules"
+   },
+   "buttonsGenerateRulesTT": {
+      "message": "Create new or update existing rules"
+   },
+   "buttonsHelp": {
+      "message": "\u003Cu>H\u003C/u>elp"
+   },
+   "buttonsHelpTT": {
+      "message": "Get help on this tab"
+   },
+   "buttonsImport": {
+      "message": "\u003Cu>I\u003C/u>mport"
+   },
+   "buttonsImportTT": {
+      "message": "Import settings from CSV file"
+   },
+   "buttonsReset": {
+      "message": "\u003Cu>R\u003C/u>eset"
+   },
+   "buttonsResetTT": {
+      "message": "Revert changes"
+   },
+   "buttonsSave": {
+      "message": "\u003Cu>S\u003C/u>ave"
+   },
+   "buttonsSaveTT": {
+      "message": "Save options"
+   },
+   "generalAddRule": {
+      "message": "Add rule for this field..."
+   },
+   "generalAddRules": {
+      "message": "Add rules for this page..."
+   },
+   "generalDescription": {
+      "message": "Form autofill on steroids."
+   },
+   "generalExecute": {
+      "message": "Execute profile"
+   },
+   "generalOptions": {
+      "message": "Autofill Options"
+   },
+   "moveRuleTT": {
+      "message": "Move this rule to another profile"
+   },
+   "optionsExceptionsIntro": {
+      "message": "There may be pages you don't want Autofill activated on. Enter any part of the document title or URL of these pages below, with one entry on each line. \u003Ca href=\"http://www.w3schools.com/jsref/jsref_obj_regexp.asp\" target=\"_blank\">Regular Expressions\u003C/a> are supported."
+   },
+   "optionsFieldsConfirmation": {
+      "message": "Confirmation"
+   },
+   "optionsFieldsMove": {
+      "message": "Move Rule"
+   },
+   "optionsFieldsNameCol": {
+      "message": "Name"
+   },
+   "optionsFieldsNameColHelp": {
+      "message": "Text label, 'name', or 'id' of the field to autofill."
+   },
+   "optionsFieldsNameColTooltip": {
+      "message": "\u003Cul>\u003Cli>Regular Expressions are supported.\u003C/li>\u003Cli>Everything between \u003Ctt>/*\u003C/tt> and \u003Ctt>*/\u003C/tt> is ignored.\u003C/li>\u003Cli>Partial match is accepted.\u003C/li>\u003Cli>Match is case insensitive.\u003C/li>\u003C/ul>"
+   },
+   "optionsFieldsOverwrite": {
+      "message": "Over\u003Cu>w\u003C/u>rite non-empty fields"
+   },
+   "optionsFieldsOverwriteInputTT": {
+      "message": "Check this box if you want Autofill to overwrite fields that already contain text"
+   },
+   "optionsFieldsSelectProfile": {
+      "message": "Select a profile to move this autofill rule to."
+   },
+   "optionsFieldsSite": {
+      "message": "S\u003Cu>i\u003C/u>te:"
+   },
+   "optionsFieldsSiteCol": {
+      "message": "Site"
+   },
+   "optionsFieldsSiteColHelp": {
+      "message": "Document title or URL required to trigger autofill."
+   },
+   "optionsFieldsSiteColTooltip": {
+      "message": "\u003Cul>\u003Cli>Regular Expressions are supported.\u003C/li>\u003Cli>Put multiple filters on separate lines (or use &quot;|&quot;).\u003C/li>\u003Cli>Partial match is accepted.\u003C/li>\u003Cli>Match is case insensitive.\u003C/li>\u003C/ul>"
+   },
+   "optionsFieldsTypeCol": {
+      "message": "Type"
+   },
+   "optionsFieldsTypeColHelp": {
+      "message": "Field type to autofill."
+   },
+   "optionsFieldsValueCol": {
+      "message": "Value"
+   },
+   "optionsFieldsValueColHelp": {
+      "message": "Text to autofill or command to auto-select/check."
+   },
+   "optionsFieldsValueColTooltip": {
+      "message": "\u003Cul>\u003Cli>If Type = Select, enter the menu item's text or index number to auto-select. For listboxes, enter a space-separated list of index numbers, &quot;!&quot; to select all, or leave blank to unselect all. Enter &quot;?&quot; to randomly select an item.\u003C/li>\u003Cli>If Type = Checkbox/Radio, enter 1 to check or 0 to uncheck for each item in the group. Add &quot;!&quot; at the end to check/uncheck all items. Enter &quot;?&quot; to randomly toggle.\u003C/li>\u003Cli>If Type = JavaScript, enter JavaScript code. It will be evaluated last.\u003C/li>\u003C/ul>"
+   },
+   "optionsOtherAdvanced": {
+      "message": "Advanced Settings"
+   },
+   "optionsOtherBackup": {
+      "message": "B\u003Cu>a\u003C/u>ck up text fields larger than:"
+   },
+   "optionsOtherBackupChars": {
+      "message": "chars"
+   },
+   "optionsOtherBackupCharsInputTT": {
+      "message": "Set the minimum number of characters to back up"
+   },
+   "optionsOtherBackupHelp": {
+      "message": "Check this box to automatically save text fields in case Chrome crashes."
+   },
+   "optionsOtherDebug": {
+      "message": "Enable debu\u003Cu>g\u003C/u> mode"
+   },
+   "optionsOtherDebugHelp": {
+      "message": "Check this box to show debugging messages in the Chrome console."
+   },
+   "optionsOtherDelay": {
+      "message": "Enable autofill dela\u003Cu>y\u003C/u>:"
+   },
+   "optionsOtherDelayHelp": {
+      "message": "Check this box to add a delay before Autofill rules are executed."
+   },
+   "optionsOtherDelaySec": {
+      "message": "sec"
+   },
+   "optionsOtherDelaySecInputTT": {
+      "message": "Set the number of seconds to wait before autofilling"
+   },
+   "optionsOtherImportAppend": {
+      "message": "Append"
+   },
+   "optionsOtherImportExport": {
+      "message": "Import/Export"
+   },
+   "optionsOtherImportExportIntro": {
+      "message": "To import settings into Autofill, paste the CSV data into the box below and click Import. To export the current settings to an external file, click Export, copy the generated CSV data, paste it into a text editor, and save the file with extension \u003Ccode>.csv\u003C/code>."
+   },
+   "optionsOtherImportMode": {
+      "message": "Im\u003Cu>p\u003C/u>ort mode:"
+   },
+   "optionsOtherImportReplace": {
+      "message": "Replace"
+   },
+   "optionsOtherInterface": {
+      "message": "Interface"
+   },
+   "optionsOtherLabelMatch": {
+      "message": "Enable la\u003Cu>b\u003C/u>el matching"
+   },
+   "optionsOtherLabelMatchHelp": {
+      "message": "Uncheck this box if you want to disable the fuzzy text label matching."
+   },
+   "optionsOtherManual": {
+      "message": "Enable \u003Cu>m\u003C/u>anual mode"
+   },
+   "optionsOtherManualHelp": {
+      "message": "Check this box to trigger Autofill only when you select a profile."
+   },
+   "optionsOtherMask": {
+      "message": "Mas\u003Cu>k\u003C/u> passwords"
+   },
+   "optionsOtherMaskHelp": {
+      "message": "If this box is checked, passwords in the Value column will be hidden from view."
+   },
+   "optionsOtherMenu": {
+      "message": "Enable context me\u003Cu>n\u003C/u>u"
+   },
+   "optionsOtherMenuHelp": {
+      "message": "Uncheck this box if you want to remove Autofill from the right-click context menu."
+   },
+   "optionsOtherOperation": {
+      "message": "Operation"
+   },
+   "optionsOtherOverwrite": {
+      "message": "Over\u003Cu>w\u003C/u>rite by default"
+   },
+   "optionsOtherOverwriteHelp": {
+      "message": "If this box is checked, the \"Overwrite non-empty fields\" option will be enabled by default."
+   },
+   "optionsOtherScale": {
+      "message": "Scale \u003Cu>r\u003C/u>ules table"
+   },
+   "optionsOtherScaleHelp": {
+      "message": "If this box is checked, the rules table will scale to the window height to reduce scrolling."
+   },
+   "optionsOtherSecurity": {
+      "message": "Security"
+   },
+   "optionsOtherSound": {
+      "message": "Enable \u003Cu>s\u003C/u>ound effects"
+   },
+   "optionsOtherSoundHelp": {
+      "message": "Check this box if you want to hear sound effects after every autofill operation."
+   },
+   "optionsOtherVars": {
+      "message": "Expand \u003Cu>v\u003C/u>ariables"
+   },
+   "optionsOtherVarsHelp": {
+      "message": "If this box is checked, \u003Ctt>{&hellip;}\u003C/tt> will be replaced with the variable's output. Click on Help for more info."
+   },
+   "optionsOtherVoice": {
+      "message": "Enable wi\u003Cu>z\u003C/u>ard's voice:"
+   },
+   "optionsOtherVoiceHelp": {
+      "message": "Check this box if you want the Wizard to speak after creating autofill rules."
+   },
+   "optionsProfilesManageDel": {
+      "message": "Dele\u003Cu>t\u003C/u>e"
+   },
+   "optionsProfilesManageMoveDown": {
+      "message": "Move Do\u003Cu>w\u003C/u>n"
+   },
+   "optionsProfilesManageMoveFirst": {
+      "message": "Move to F\u003Cu>i\u003C/u>rst"
+   },
+   "optionsProfilesManageMoveLast": {
+      "message": "Move to \u003Cu>L\u003C/u>ast"
+   },
+   "optionsProfilesManageMoveUp": {
+      "message": "Move \u003Cu>U\u003C/u>p"
+   },
+   "optionsProfilesManageNew": {
+      "message": "\u003Cu>N\u003C/u>ew"
+   },
+   "optionsProfilesManageProfiles": {
+      "message": "Manage Profiles"
+   },
+   "optionsProfilesManageRename": {
+      "message": "\u003Cu>R\u003C/u>ename"
+   },
+   "optionsProfilesManageSort": {
+      "message": "\u003Cu>S\u003C/u>ort"
+   },
+   "optionsProfilesMenuAll": {
+      "message": "All"
+   },
+   "optionsProfilesMenuManage": {
+      "message": "Manage..."
+   },
+   "optionsProfilesMenuProfiles": {
+      "message": "&#8212;&#8212;&#8211; Profiles &#8211;&#8212;&#8212;"
+   },
+   "optionsProfilesMenuUnfiled": {
+      "message": "Unfiled"
+   },
+   "optionsSupportKeyboardShortcuts": {
+      "message": "Keyboard Shortcuts"
+   },
+   "optionsSupportKeyboardShortcutsTT": {
+      "message": "Go here to see the available keyboard shortcuts"
+   },
+   "optionsSupportOnlineHelp": {
+      "message": "Online Help"
+   },
+   "optionsSupportOnlineHelpTT": {
+      "message": "Go here to read the complete documentation"
+   },
+   "optionsSupportPracticeForm": {
+      "message": "Practice Form"
+   },
+   "optionsSupportPracticeFormTT": {
+      "message": "Go here to practice creating your autofill rules"
+   },
+   "optionsSupportSupportForum": {
+      "message": "Support Forum"
+   },
+   "optionsSupportSupportForumTT": {
+      "message": "Go here to report issues or share your feature suggestions"
+   },
+   "optionsTabsExceptions": {
+      "message": "Ex\u003Cu>c\u003C/u>eptions"
+   },
+   "optionsTabsExceptionsTT": {
+      "message": "Pages or sites to exclude from Autofill"
+   },
+   "optionsTabsFields": {
+      "message": "Form Fie\u003Cu>l\u003C/u>ds"
+   },
+   "optionsTabsFieldsTT": {
+      "message": "Define fields to autofill"
+   },
+   "optionsTabsOther": {
+      "message": "\u003Cu>O\u003C/u>ther Stuff"
+   },
+   "optionsTabsOtherTT": {
+      "message": "Other stuff to brighten your day"
+   },
+   "optionsTabsSiteInputTT": {
+      "message": "Enter any part of the \u003Ctitle> or URL that needs to match in order to trigger rules in this profile"
+   },
+   "optionsTabsSupport": {
+      "message": "S\u003Cu>u\u003C/u>pport"
+   },
+   "optionsTabsSupportTT": {
+      "message": "Need help?"
+   },
+   "profileTT": {
+      "message": "Profile"
+   },
+   "removeRuleTT": {
+      "message": "Remove this rule"
+   },
+   "reorderRuleTT": {
+      "message": "Reorder rule"
+   },
+   "selectProfileTT": {
+      "message": "Select a profile"
+   },
+   "statusCharLimit": {
+      "message": "Profile name cannot be over 30 characters."
+   },
+   "statusDone": {
+      "message": "Done!"
+   },
+   "statusDuplicate": {
+      "message": "Duplicate profile name detected."
+   },
+   "statusEnterValue": {
+      "message": "Enter a value for the highlighted field."
+   },
+   "statusImportFailed": {
+      "message": "Import failed – see Help for correct CSV format."
+   },
+   "statusImportingExceptions": {
+      "message": "Importing exceptions..."
+   },
+   "statusImportingOption": {
+      "message": "Importing '$1' option..."
+   },
+   "statusImportingProfile": {
+      "message": "Importing profile \"$1\"..."
+   },
+   "statusImportingRule": {
+      "message": "Importing rule $1 of $2..."
+   },
+   "statusIncomplete": {
+      "message": "The highlighted fields are incomplete."
+   },
+   "statusNoChange": {
+      "message": "No fields have been changed."
+   },
+   "statusNotSavedStorageLimit": {
+      "message": "Cannot add rules – 5MB storage limit reached."
+   },
+   "statusOptionsSaved": {
+      "message": "Options saved."
+   },
+   "statusPageStillLoading": {
+      "message": "The page is still loading. Please try again in a few seconds."
+   },
+   "statusProfileCharLimit": {
+      "message": "Profile name cannot be over 30 characters."
+   },
+   "statusProfileDuplicate": {
+      "message": "Duplicate profile name detected."
+   },
+   "statusProfileReserved": {
+      "message": "Profile name cannot start with \"——\"."
+   },
+   "statusProfilesSaved": {
+      "message": "Profiles saved."
+   },
+   "statusReserved": {
+      "message": "This profile name cannot be used."
+   },
+   "statusRuleMoved": {
+      "message": "Autofill rule moved to \"___\" profile."
+   },
+   "statusSaveFailed": {
+      "message": "Save failed – you have reached the 5MB storage limit."
+   },
+   "statusSettingsExported": {
+      "message": "Settings exported. Copy data and save in a CSV file."
+   },
+   "statusSettingsImported": {
+      "message": "Settings imported. Review rules in Form Fields tab. Click Save to commit changes."
+   },
+   "statusStorageLimit": {
+      "message": "5MB storage limit reached."
+   },
+   "statusUnsavedChanges": {
+      "message": "You have unsaved changes."
+   },
+   "whatsNewTT": {
+      "message": "So what's new?"
+   },
+   "wizardChooseProfile": {
+      "message": "Choose a \u003Cu>P\u003C/u>rofile"
+   },
+   "wizardFillField": {
+      "message": "Fill out the field."
+   },
+   "wizardFillForm": {
+      "message": "Fill out the form."
+   },
+   "wizardNew": {
+      "message": "New..."
+   },
+   "wizardProfileName": {
+      "message": "New profile name"
+   },
+   "wizardTitle": {
+      "message": "Autofill Form Fields Wizard"
+   }
+}
